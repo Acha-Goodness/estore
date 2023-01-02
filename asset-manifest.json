@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Acha-Goodness.github.io/estore/static/css/main.efa2075f.css",
+    "main.js": "/Acha-Goodness.github.io/estore/static/js/main.337ec11f.js",
+    "static/media/xboxPad.png": "/Acha-Goodness.github.io/estore/static/media/xboxPad.d5ba4a1d2890424ff785.png",
+    "static/media/set.png": "/Acha-Goodness.github.io/estore/static/media/set.fa1f29aea01b515891fd.png",
+    "static/media/jordan.png": "/Acha-Goodness.github.io/estore/static/media/jordan.c3c7f6a01f6823e899a5.png",
+    "static/media/cap.png": "/Acha-Goodness.github.io/estore/static/media/cap.68206b08b263b31350b8.png",
+    "static/media/night.png": "/Acha-Goodness.github.io/estore/static/media/night.7ba0b666dbf5860bec81.png",
+    "static/media/hero.jpg": "/Acha-Goodness.github.io/estore/static/media/hero.e9d531d6d443ef9493b2.jpg",
+    "static/media/hoodie.png": "/Acha-Goodness.github.io/estore/static/media/hoodie.424e2c2003acbcfbb12b.png",
+    "static/media/phones.png": "/Acha-Goodness.github.io/estore/static/media/phones.e239b964f50a4229b165.png",
+    "static/media/bag.png": "/Acha-Goodness.github.io/estore/static/media/bag.fcea6667cc91deab8891.png",
+    "static/media/watch.png": "/Acha-Goodness.github.io/estore/static/media/watch.ab0c0a7622cea2b630a0.png",
+    "static/media/headset.png": "/Acha-Goodness.github.io/estore/static/media/headset.9ed4c9310599eb35e4b7.png",
+    "static/media/binocular.png": "/Acha-Goodness.github.io/estore/static/media/binocular.5064f4a212b68bc35d55.png",
+    "static/media/xpad.png": "/Acha-Goodness.github.io/estore/static/media/xpad.6eb9ad59856706bfce03.png",
+    "static/media/blue.png": "/Acha-Goodness.github.io/estore/static/media/blue.1a2d979587b4308f7939.png",
+    "static/media/cart.png": "/Acha-Goodness.github.io/estore/static/media/cart.c4ccbfa7727762241f0e.png",
+    "static/media/pods.png": "/Acha-Goodness.github.io/estore/static/media/pods.63518ae3d499c8076547.png",
+    "static/media/drone.png": "/Acha-Goodness.github.io/estore/static/media/drone.edab186e526be98f4a7e.png",
+    "static/media/p5.png": "/Acha-Goodness.github.io/estore/static/media/p5.c0968e784bef8a399174.png",
+    "static/media/xbox.png": "/Acha-Goodness.github.io/estore/static/media/xbox.c233cd0f4e19aadcb334.png",
+    "static/media/bags.png": "/Acha-Goodness.github.io/estore/static/media/bags.ca5fddaff35b8618682e.png",
+    "index.html": "/Acha-Goodness.github.io/estore/index.html",
+    "main.efa2075f.css.map": "/Acha-Goodness.github.io/estore/static/css/main.efa2075f.css.map",
+    "main.337ec11f.js.map": "/Acha-Goodness.github.io/estore/static/js/main.337ec11f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efa2075f.css",
+    "static/js/main.337ec11f.js"
+  ]
+}
